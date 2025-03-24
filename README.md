@@ -3,9 +3,9 @@
 #### Technical Skills: React JS, Mongo DB, HTML, CSS3, Java Script, Spring boot,SQL, REST APIs,AWS,Git.
 
 ## Education
-Master In Information Technology| University of Cincinnati, USA.
+Master In Information Technology|  University of Cincinnati, USA.
 
-Bachelors in Technology, Computer Science |Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, India.
+Bachelors in Technology, Computer Science | Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, India.
 
 ## Work Experience
 **Java Full Stack Developer, Infinite Computer solutions.               (Nov 2023 – Present)**
@@ -27,7 +27,7 @@ Bachelors in Technology, Computer Science |Sri Chandrasekharendra Saraswathi Vis
 
 [Github](https://github.com/YASWANTHKARI)
 
-yaswanthkari001@gmail.com
+ yaswanthkari001@gmail.com
 
 
 
