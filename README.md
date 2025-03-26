@@ -19,6 +19,8 @@ Master In Information Technology|  University of Cincinnati, USA.
 - Built microservices with RESTful APIs, leveraging MongoDB for flexible data storage and optimizing database queries for performance and security.
 - Integrated backend automation and security, including email notifications, secure API endpoints, and strict access controls to protect sensitive employee information.
 ## Contact Information
+[![View Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](Yaswanth kari- Resume$.pdf)
+
 - [Linkedin](https://www.linkedin.com/in/yaswanth-kari-709164357/)
 
 -  [Medium](https://medium.com/@yaswanthkari001)
