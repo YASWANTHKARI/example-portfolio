@@ -5,8 +5,6 @@
 ## Education
 Master In Information Technology|  University of Cincinnati, USA.
 
-Bachelors in Technology, Computer Science | Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya, India.
-
 ## Work Experience
 **Java Full Stack Developer, Infinite Computer solutions.               (Nov 2023 – Present)**
 - Designed and developed scalable RESTful APIs using Java Spring Boot, implementing microservices architecture, business logic for dynamic discount processing, and ensuring ACID-compliant transactions with PostgreSQL and MongoDB.
@@ -23,7 +21,7 @@ Bachelors in Technology, Computer Science | Sri Chandrasekharendra Saraswathi Vi
 ## Contact Information
 [Linkedin](https://www.linkedin.com/in/yaswanth-kari-709164357/)
 
-[Medium](https://medium.com/@yaswanthkari001)
+  [Medium](https://medium.com/@yaswanthkari001)
 
 [Github](https://github.com/YASWANTHKARI)
 
