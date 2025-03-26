@@ -25,7 +25,7 @@ Master In Information Technology|  University of Cincinnati, USA.
 
 [Github](https://github.com/YASWANTHKARI)
 
-yaswanthkari001@gmail.com
+[E-Mail] (yaswanthkari001@gmail.com)
 
 
 
