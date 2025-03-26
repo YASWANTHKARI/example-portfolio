@@ -21,9 +21,9 @@ Master In Information Technology|  University of Cincinnati, USA.
 ## Contact Information
 - [Linkedin](https://www.linkedin.com/in/yaswanth-kari-709164357/)
 
-- [Medium](https://medium.com/@yaswanthkari001)
+-  [Medium](https://medium.com/@yaswanthkari001)
 
-- [Github](https://github.com/YASWANTHKARI)
+-  [Github](https://github.com/YASWANTHKARI)
 
 - [E-Mail](yaswanthkari001@gmail.com)
 
