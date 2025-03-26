@@ -23,7 +23,7 @@ Bachelors in Technology, Computer Science | Sri Chandrasekharendra Saraswathi Vi
 ## Contact Information
 [Linkedin](https://www.linkedin.com/in/yaswanth-kari-709164357/)
 
-[Medium](https://medium.com/@yaswanthkari001)
+ [Medium](https://medium.com/@yaswanthkari001)
 
 [Github](https://github.com/YASWANTHKARI)
 
