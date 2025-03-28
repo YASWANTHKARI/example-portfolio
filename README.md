@@ -44,7 +44,7 @@ Master In Information Technology|  University of Cincinnati, USA.
 - Participated in Agile practices including sprint planning and retrospectives, aligning with evolving business and backend requirements.
 
 ## Contact Information
-[![View Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](Yaswanth Kari - Resume$.pdf)
+<HTML><body><a><href src="/Yaswanth kari - Resume$.pdf">[![View Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](Yaswanth Kari - Resume$.pdf)</href></a></body></HTML>
 
 - [Linkedin](https://www.linkedin.com/in/yaswanth-kari-709164357/)
 
